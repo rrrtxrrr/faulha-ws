@@ -170,6 +170,13 @@ p {
   padding: 1rem;
   }
 
+.sep {
+  width: 8rem;
+  height: 0.3rem;
+  margin: 2.7rem auto;
+  background-color: rgb(185,0,0);
+}
+
 /* ACTUAÇÕES */
 
   .acts01 {
@@ -334,7 +341,7 @@ p {
   }
 
   .sep {
-  width: 10rem;
+  width: 12rem;
   height: 0.3rem;
   margin: 2.7rem auto;
   background-color: rgb(185,0,0);
